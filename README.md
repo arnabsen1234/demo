@@ -1,3 +1,11 @@
+Changing again
+Update to STAGE
+<<<<<<< Updated upstream
+This is the new  chnage 
+
+=======
+#this is the file
+>>>>>>> Stashed changes
 khadlJDfkjdhsLK#Demo Project Readme 
 
 NEW BRANHC CHANGES
